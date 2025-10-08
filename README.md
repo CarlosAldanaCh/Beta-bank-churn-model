@@ -149,7 +149,7 @@ Consulta el archivo [LICENSE](./LICENSE) para más detalles.
 ```
 MIT License
 
-Copyright (c) 2025 Carlos [Tu Apellido]
+Copyright (c) 2025 Carlos Aldana
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
